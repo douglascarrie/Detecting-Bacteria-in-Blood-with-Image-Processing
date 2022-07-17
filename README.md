@@ -33,6 +33,11 @@ Various image processing methods through MATLAB were used within this project:
 You need MATLAB and the test dataset of images to run this.
 
 ---
-### Demo 
+### Report
+
+A report was created (pdf) to explain further each method used, this was done as part of an assessment.
+
+Link to report: [Click here](https://github.com/douglascarrie/Detecting-Bacteria-in-Blood-with-Image-Processing/blob/master/Report.pdf)
+
 
 
