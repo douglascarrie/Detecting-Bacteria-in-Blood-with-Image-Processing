@@ -2,6 +2,7 @@
 
 #### using MATLAB
 
+![Example of program](https://github.com/douglascarrie/Detecting-Bacteria-in-Blood-with-Image-Processing/blob/master/output/example.png)
 
 This project aimed to create code which could seperate bacteria from red blood cells 
 within an image. The red blood cells are formed as rough circular shapes and the bacteira can be
